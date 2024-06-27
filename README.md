@@ -1,5 +1,6 @@
 - 👋 Hi there! I'm Aditya Kumar, a passionate second-year Computer Science student at IIIT Sonepat.
-   Welcome to my GitHub profile, where I share my projects, explorations, and learning journey in the
+
+  Welcome to my GitHub profile, where I share my projects, explorations, and learning journey in the
    world of computer science.
 - 👀 I’m interested in web devlopment and Data science
 - 🌱 I’m currently learning MERN stack
