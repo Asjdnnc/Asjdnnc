@@ -1,21 +1,39 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<p align="center">A passionate 2nd-year CS student at IIIT Sonepat.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Passionate+2nd-year+CS+student;Exploring+the+world+of+Computer+Science;Welcome+to+my+GitHub+profile!">
+</p>
+
 <p align="center">Welcome to my GitHub profile, where I share my projects, explorations, and learning journey in the world of computer science.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya05yt/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:aditya05yt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=social&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
-- 🔭 I’m currently working on [Wanderlust](https://majorproject-0elt.onrender.com/listings)
-- 🌱 I’m currently learning **MERN stack and Machine Learning**
-- 📫 How to reach me: **aditya05yt@gmail.com**
+<div align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Learning-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Studying-blue?style=for-the-badge&logo=python">
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔭 I’m currently working on:
+- [Wanderlust](https://majorproject-0elt.onrender.com/listings)
+
+### 🌱 I’m currently learning:
+- **MERN stack**
+- **Machine Learning**
+
+### 📫 How to reach me:
+- **aditya05yt@gmail.com**
+
+---
+
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya05yt/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -25,7 +43,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -63,4 +83,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya05yt&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
 </p>
