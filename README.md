@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Aditya kumar</h1>
-<h3>A passionate 2nd yr CS student at IIIT Sonepat. Welcome to my GitHub profile, where I share my projects, explorations, and learning journey in the world of computer science.</h3>
+<p>A passionate 2nd yr CS student at IIIT Sonepat.</p> 
+<p>Welcome to my GitHub profile, where I share my projects, explorations, and learning journey in the world of computer science.</p>
 
 - 🔭 I’m currently working on [Wanderlust](https://majorproject-0elt.onrender.com/listings)
 
