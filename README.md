@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Passionate+2nd-year+CS+student;Exploring+the+world+of+Computer+Science;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Passionate+2nd-year+CS+student;Exploring+the+world+of+Computer+Sc;Welcome+to+my+GitHub+profile!">
 </p>
 
 <p align="center">Welcome to my GitHub profile, where I share my projects, explorations, and learning journey in the world of computer science.</p>
@@ -22,7 +22,7 @@
 ---
 
 ### 🔭 I’m currently working on:
-- [Wanderlust](https://majorproject-0elt.onrender.com/listings)
+- [Wanderstay](https://majorproject-0elt.onrender.com/listings)
 
 ### 🌱 I’m currently learning:
 - **MERN stack**
