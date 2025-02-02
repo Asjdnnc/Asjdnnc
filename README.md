@@ -19,8 +19,9 @@
 
 ---
 
-### 🔭 I’m currently working on:
+### 🔭 I’m currently working on the following projects:
 - [Wanderstay](https://majorproject-0elt.onrender.com/listings)
+- [Marvel Movies](https://marvel-phi-three.vercel.app/)
 
 ### 🌱 I’m currently learning:
 - **MERN stack**
