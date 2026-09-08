@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=I+am+a+3rd-year+CS+student;Exploring+the+world+of+Computer+Sc;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=I+am+a+final-year+student;Exploring+the+world+of+Computer+Sc;Welcome+to+my+GitHub+profile!">
 </p>
 
 
@@ -17,7 +17,7 @@
 - [Online Ticket booking website]([https://marvel-phi-three.vercel.app/](https://github.com/Asjdnnc/Hack-The-Winter-R3))
 
 ### 🌱 I’m currently learning:
-- **NEXTJs**
+- **Quantum Computing**
 - **Machine Learning**
 
 
